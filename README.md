@@ -7,10 +7,12 @@ format json to display in cli or html <pre> tag
 
 npm install formatjson
 
+web version: ./lib/formatjson_web.js
+
 ###example
 
 ```
-var formatjson=require("../lib/index.js")
+var formatjson=require("formatjson")
 var jj={
     "aa":{
         "bb":"cc",
