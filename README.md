@@ -1,7 +1,7 @@
 formatjson
 ==========
 
-format json to display in cli or html <pre> tag
+format json to display in cli or html pre tag
 
 ###install
 
